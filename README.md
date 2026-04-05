@@ -51,7 +51,7 @@ Discovery Repositioning
 ##  Repository Structure
 
 ```
-├── hybrid_gnn_cnn_drug_discovery.ipynb   # Main notebook (full pipeline)
+├── 23b2147_assign3.ipynb   # Main notebook (full pipeline)
 ├── hybrid_gnn_cnn_weights.pt             # Saved model weights (after training)
 ├── fig2_confusion_matrix.png             # Confusion matrix plot
 ├── fig3_roc_curve.png                    # ROC curve plot
